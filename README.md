@@ -20,7 +20,7 @@ Select the problem statement number and title from the official list given in Pa
 Ok so people can use it for comparing prices of the same dish from different platforms like Swiggy, Zomato, and EatSure.
 Also it can help in choosing what to eat, especially when you are unsure or looking for something new, healthy, or fun.
 And more importantly it prevents wasting time switching between apps or websites for the best deals or ideas.
----
+
 
 ### Your Approach:  
 - firstly we focused on the problems that we ourselves were facing , a lot of them struck our minds but not as much as this food comparision one. So we went on building something like a skyscanner web application for food.
