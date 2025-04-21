@@ -55,7 +55,7 @@ Highlight the most important features of your project:
    
 Users start typing a dish name.
 Autocomplete suggestions (via Groq + local validation) appear in a dropdown.
-Clicking a suggestion sets the dish and triggers price comparison + Remy’s recommendation.
+Clicking a suggestion sets the dish and triggers price comparison + Cookie’s recommendation.
 
 2. Cross-Platform Price Comparison.
    
@@ -63,7 +63,7 @@ Prices are fetched (from mock data or future live scraping).
 Displays cheapest price per platform (Swiggy, Zomato, EatSure).
 Prices auto-update every 30 seconds to simulate real-world fluctuations.
 
-3. Remy – The AI Food Buddy
+3. Cookie – The AI Food Buddy
    
 Friendly AI chatbot powered by Groq LLM.
 Generates fun, healthy, and casual dish ideas or twists based on user input.
@@ -121,4 +121,13 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## 🧬 Future Scope
+
+List of few improvements that we are planning for future:
+
+-  Live scraping or API integration from Swiggy/Zomato. 
+- Location-based filtering for restaurant availability.
+- User profiles and favorites.
+
+---
 
