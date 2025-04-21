@@ -1,12 +1,10 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
-
-# 🚀 Project Title
+#  Project Title
 
 > Compare food prices instantly across apps and get AI-powered recommendations from Cookie
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Select the problem statement number and title from the official list given in Participant Manual.
 
@@ -15,7 +13,7 @@ Select the problem statement number and title from the official list given in Pa
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Ok so people can use it for comparing prices of the same dish from different platforms like Swiggy, Zomato, and EatSure.
 Also it can help in choosing what to eat, especially when you are unsure or looking for something new, healthy, or fun.
@@ -29,7 +27,7 @@ And more importantly it prevents wasting time switching between apps or websites
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Core Technologies Used:
 - Frontend: React + Next.js ; Tailwind CSS ; Framer Motion ; TypeScript
@@ -47,7 +45,7 @@ okay so majorly, there are 3 sections in my prototype where I have integrated Gr
 3. last section is the ask cookie section, it basically provides a fun and unique recipe that can be prepared using the food item that is entered. Basically, we are giving customized prompt to our Groq API for this.
 ---
 
-## ✨ Key Features
+##  Key Features
 
 Highlight the most important features of your project:
 
@@ -82,7 +80,7 @@ Restaurants show updated prices based on the platform’s cheapest price.
 
 ---
 
-## 📽️ Demo & Deliverables
+##  Demo & Deliverables
 
 - **Demo Video Link:** https://vimeo.com/1076818578/50dfe74fb0?ts=0&share=copy
 
@@ -121,7 +119,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 🧬 Future Scope
+## Future Scope
 
 List of few improvements that we are planning for future:
 
